@@ -1,0 +1,13 @@
+/* Font */
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap");
+
+body {
+  font-family: "Roboto Slab", serif;
+}
+/* .panda-btn-book-now {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  color: white;
+  border-radius: 8px;
+  padding: 9px 25px;
+  border: none;
+} */
