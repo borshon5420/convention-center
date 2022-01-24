@@ -22,7 +22,6 @@ body {
 .font-small {
   font-size: 15px;
 }
-
 .wedding-plus {
   height: 480px;
   border-radius: 30px;
@@ -37,4 +36,14 @@ body {
   border-radius: 8px;
   padding: 9px 25px;
   border: none;
+}
+
+/* Media Queries */
+@media only screen and (max-width: 576px) {
+  .container {
+    width: 100%;
+  }
+  .package-small {
+    flex-direction: column;
+  }
 }
