@@ -19,6 +19,9 @@ body {
 .click-special {
   color: white;
 }
+.gift-color {
+  color: #007cff;
+}
 .font-small {
   font-size: 15px;
 }
@@ -38,12 +41,14 @@ body {
   border: none;
 }
 
-/* Media Queries */
+/*/* Media Queries */
 @media only screen and (max-width: 576px) {
-  .container {
-    width: 100%;
-  }
-  .package-small {
-    flex-direction: column;
+  .carousel-text {
+    position: absolute;
+    top: 5px;
+    right: 30px;
+    width: 450px;
+    height: 250px;
+    font-size: 10px;
   }
 }
