@@ -5,13 +5,24 @@ body {
   font-family: "Roboto Slab", serif;
 }
 
+.button-style {
+  background-color: #f496d1;
+  color: white;
+}
+.button-style-special {
+  background-color: white;
+  color: #3f87f5;
+}
 .click {
   color: #921e0f;
 }
-.package-style {
-  border: solid 1px black;
-  padding: 10px;
+.click-special {
+  color: white;
 }
+.font-small {
+  font-size: 15px;
+}
+
 .wedding-plus {
   height: 480px;
   border-radius: 30px;
