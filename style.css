@@ -4,10 +4,16 @@
 body {
   font-family: "Roboto Slab", serif;
 }
-/* .panda-btn-book-now {
-  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
-  color: white;
-  border-radius: 8px;
-  padding: 9px 25px;
-  border: none;
-} */
+
+.click {
+  color: #921e0f;
+}
+.package-style {
+  border: solid 1px black;
+  padding: 10px;
+}
+.wedding-plus {
+  height: 480px;
+  border-radius: 30px;
+  background-color: #3f87f5;
+}
